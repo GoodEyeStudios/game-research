@@ -1,0 +1,21 @@
+team,on_court_slot,player,own_block_rating_x4,block_value_in_game,own_intercept_rating,intercept_value_in_game,side
+San Antonio,0,ROD STRICKLAND,8,8,111,111,computer
+San Antonio,1,PAUL PRESSEY,8,8,68,111,computer
+San Antonio,2,SEAN ELLIOTT,8,8,73,111,computer
+San Antonio,3,TERRY CUMMINGS,8,8,73,111,computer
+San Antonio,4,DAVID ROBINSON,44,8,41,111,computer
+Philadelphia,0,JOHNNY DAWKINS,8,8,113,113,computer
+Philadelphia,1,HERSEY HAWKINS,8,8,101,113,computer
+Philadelphia,2,RON ANDERSON,8,8,68,113,computer
+Philadelphia,3,CHARLES BARKLEY,12,8,81,113,computer
+Philadelphia,4,CHARLES SHACKLEFORD,12,8,38,113,computer
+Chicago,0,JOHN PAXSON,4,8,93,98,computer
+Chicago,1,MICHAEL JORDAN,16,8,118,98,computer
+Chicago,2,SCOTTIE PIPPEN,20,8,116,98,computer
+Chicago,3,HORACE GRANT,12,8,91,98,computer
+Chicago,4,BILL CARTWRIGHT,4,8,31,98,computer
+Charlotte,0,TYRONE BOGUES,4,8,116,121,computer
+Charlotte,1,REX CHAPMAN,8,8,91,121,computer
+Charlotte,2,KENNY GATTISON,12,8,78,121,computer
+Charlotte,3,LARRY JOHNSON,24,8,96,121,computer
+Charlotte,4,MIKE GMINSKI,12,8,36,121,computer
