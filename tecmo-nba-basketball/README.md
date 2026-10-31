@@ -75,8 +75,10 @@ dice call a miss still rattles in.) The final chance is built roughly like this:
    *From code.*
 8. Layups and dunks at the rim get a bonus; a **coached** team gets +25/256.
 
-Why Dreiling is 97%: the game copies real season percentages, and players who barely shot threes got tiny-sample
-numbers. Jon Sundvold and Pete Chilcutt are stored at 97% too.
+**How percentages are stored:** real 1991-92 percentage x 250, rounded down, as a value out of 256. For the
+1991-92 Pacers that matches 28 of 30 numbers exactly (Miller's and Schrempf's 3P% are 1-2 units lower). So a stored
+"97.3%" (249/256) is the top of the scale: a perfect 1.000. Greg Dreiling went **1 for 1** from three that season.
+Jon Sundvold and Pete Chilcutt are stored at the same 97.3%.
 
 ## How a block works
 
@@ -103,7 +105,8 @@ human-controlled player the maximum (block 64, intercept 128) instead. *Confirme
 - The ROM contains the title **TECMO SUPER PRO BASKETBALL**, printed by a typewriter-style text routine.
 - Magic Johnson starts for the Lakers, though he retired early in the 1991-92 season without playing a game.
 - Steals off the dribble use no rating: once the defender is close, it's a flat roll of about 15%.
-- John Starks's stored FT% (43.8%) and 3P% (75.8%) look mistyped.
+- John Starks's numbers slid one box over: his real 1991-92 free-throw percentage (.778) is in his three-point box
+  (stored 75.8%), and his real field-goal percentage (.449) is in his free-throw box (stored 43.8%).
 
 ## How we tested
 
