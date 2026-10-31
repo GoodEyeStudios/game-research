@@ -107,6 +107,7 @@ human-controlled player the maximum (block 64, intercept 128) instead. *Confirme
 - Steals off the dribble use no rating: once the defender is close, it's a flat roll of about 15%.
 - John Starks's numbers slid one box over: his real 1991-92 free-throw percentage (.778) is in his three-point box
   (stored 75.8%), and his real field-goal percentage (.449) is in his free-throw box (stored 43.8%).
+  His field-goal box (stored 42.6%) holds his 1990-91 field-goal percentage (.439).
 
 ## How we tested
 
