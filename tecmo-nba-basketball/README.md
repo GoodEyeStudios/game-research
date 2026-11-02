@@ -1,6 +1,6 @@
 # Tecmo NBA Basketball (NES, 1992): what's inside the cartridge
 
-Findings from the GoodEye episode **"The 97% Shooter Who Can't Shoot"**: the video is coming soon to https://www.youtube.com/@GoodEye-Studios
+Findings from **GoodEye Episode 5**, the Tecmo NBA Basketball deep dive: the video is coming soon to https://www.youtube.com/@GoodEye-Studios
 
 Every player in Tecmo NBA Basketball has a block of numbers in the ROM. Some are on the team screens (height, weight,
 jersey); the rest are hidden. We read the game's code to find out what each number does, then tested it in an emulator,
