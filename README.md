@@ -6,7 +6,7 @@ https://www.youtube.com/@GoodEye-Studios
 
 | Game | Video | What's inside |
 |---|---|---|
-| [Tecmo NBA Basketball (NES, 1992)](tecmo-nba-basketball) | VIDEO_LINK_TBD | Every player's hidden ratings, the shot formula, why a 97% shooter can't shoot, and a 30-year-old block bug |
+| [Tecmo NBA Basketball (NES, 1992)](tecmo-nba-basketball) | Video coming soon | Every player's hidden ratings, the shot formula, why a 97% shooter can't shoot, and a 30-year-old block bug |
 
 More games come with more videos.
 
