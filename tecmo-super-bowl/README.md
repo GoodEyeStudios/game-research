@@ -1,6 +1,6 @@
 # Tecmo Super Bowl (NES, 1991): what's inside the cartridge
 
-Findings from **GoodEye Episode 7**, the Tecmo Super Bowl Bo Jackson video: VIDEO_LINK_TBD
+Findings from **GoodEye Episode 7**, the Tecmo Super Bowl Bo Jackson video: the video is coming November 12 to https://www.youtube.com/@GoodEye-Studios
 
 Every player in Tecmo Super Bowl has a block of ratings in the ROM. We read the game's code to find out how the speed
 ratings really work, then raced the players in an emulator, frame by frame, to check.
