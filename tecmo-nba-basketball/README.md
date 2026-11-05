@@ -121,6 +121,8 @@ and charts.
 
 Found something wrong, or something new? Open an issue.
 
+The other games are on the [main page](../README.md).
+
 ---
 
 Not affiliated with Tecmo, Koei Tecmo or the NBA. Game and team names belong to their owners.

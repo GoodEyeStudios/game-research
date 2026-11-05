@@ -1,12 +1,13 @@
 # GoodEye game research
 
 What's really going on inside old games: the hidden ratings, the formulas and the bugs, found by reading the code and
-testing it shot by shot. Each game here goes with a video on the **GoodEye** YouTube channel:
+testing it in the running game, frame by frame. Each game here goes with a video on the **GoodEye** YouTube channel:
 https://www.youtube.com/@GoodEye-Studios
 
 | Game | Video | What's inside |
 |---|---|---|
 | [Tecmo NBA Basketball (NES, 1992)](tecmo-nba-basketball) | Video coming soon | Every player's hidden ratings, the shot formula, why a 97% shooter can't shoot, and a 30-year-old block bug |
+| [Tecmo Super Bowl (NES, 1991)](tecmo-super-bowl) | VIDEO_LINK_TBD | Every player's ratings, how speed really works, why every kicker outruns Bo Jackson, and how to break away from a defender |
 
 More games come with more videos.
 
