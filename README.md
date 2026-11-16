@@ -7,7 +7,7 @@ https://www.youtube.com/@GoodEye-Studios
 | Game | Video | What's inside |
 |---|---|---|
 | [Tecmo NBA Basketball (NES, 1992)](tecmo-nba-basketball) | Video coming soon | Every player's hidden ratings, the shot formula, why a 97% shooter can't shoot, and a 30-year-old block bug |
-| [Tecmo Super Bowl (NES, 1991)](tecmo-super-bowl) | Video coming November 12 | Every player's ratings, how speed really works, why every kicker outruns Bo Jackson, and how to break away from a defender |
+| [Tecmo Super Bowl (NES, 1991)](tecmo-super-bowl) | [Episode 7](https://www.youtube.com/watch?v=pY1aZiRFf2g); Episode 8 coming November 19 | Every player's ratings, how speed really works, why every kicker outruns Bo Jackson, how to break away from a defender, the hidden pass formula and the computer's boost |
 
 More games come with more videos.
 

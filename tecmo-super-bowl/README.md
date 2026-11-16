@@ -1,6 +1,8 @@
 # Tecmo Super Bowl (NES, 1991): what's inside the cartridge
 
-Findings from **GoodEye Episode 7**, the Tecmo Super Bowl Bo Jackson video: the video is coming November 12 to https://www.youtube.com/@GoodEye-Studios
+Findings from two GoodEye videos:
+- **Episode 7**, Bo Jackson and speed: https://www.youtube.com/watch?v=pY1aZiRFf2g
+- **Episode 8**, passing and the computer's boost: coming November 19 to https://www.youtube.com/@GoodEye-Studios
 
 Every player in Tecmo Super Bowl has a block of ratings in the ROM. We read the game's code to find out how the speed
 ratings really work, then raced the players in an emulator, frame by frame, to check.
@@ -11,9 +13,10 @@ ratings really work, then raced the players in an emulator, frame by frame, to c
 
 - **Every kicker is faster than Bo Jackson.** All 28 kickers have max speed 81; Bo has 75. Over 100 yards, running
   straight, Bo comes in last against five of them: Matt Bahr 12.98 s, Bo 13.46 s. *Confirmed.*
-- **Max speed gives you two top speeds:** one with the ball, one without. With the ball, Bo tops out at about
-  7.5 yards a second; chasing without the ball, the same rating gives over 11. So every defender running free is
-  faster than every ball carrier in the game. *Confirmed.*
+- **Max speed gives you two top speeds:** one on offense, one on defense. On offense, with the ball or not (a
+  receiver on his route too), Bo tops out at about 7.5 yards a second; on defense the same rating gives over 11. So
+  every defender running free is faster than every ball carrier in the game. *Confirmed.* (Corrected: this said
+  "with the ball / without the ball". The slow top speed is for the whole offense, not just the ball carrier.)
 - **Five players have max speed 75:** Bo and four corners (Deion Sanders, Darrell Green, Rod Woodson, Wayne Haddix).
   Bo still beats Deion, Green and Woodson by 0.07-0.08 s over 100 yards, because his **rushing power** is 69 and
   theirs is 56. *Confirmed.*
@@ -27,6 +30,22 @@ ratings really work, then raced the players in an emulator, frame by frame, to c
   90 or more. Against Deion Sanders and Lawrence Taylor: running straight, tackled; one 90-degree cut, tackled; a
   45-degree cut, then a second cut when he's right on you: touchdown. *Confirmed.*
 
+## The short version: passing (Episode 8)
+
+- **A covered receiver needs his QB and his hands to beat the defender by 5 steps.** Add the quarterback's pass control
+  step and the receiver's receptions step, take away the defender's interceptions step: under 5, he can't catch it
+  at all; at exactly 5 it's a 2% catch. *Confirmed.* (The video first says 6 and corrects it on screen.)
+- **Aikman to Irvin against Bears safety Mark Carrier:** 6 + 7 = 13 vs 12, one step better. The math: 0% caught,
+  40% picked off. 20 throws: 0 caught, 14 incomplete, 6 intercepted. *Confirmed.*
+- **Montana to Rice against Carrier:** 12 + 12 = 24 vs 12. The math: 31% caught, 8% picked off. 20 throws: 6 caught,
+  12 incomplete, 2 intercepted. Wide open, the catch is certain: 4 of 4. *Confirmed.*
+- **Deion Sanders can't pick off Montana to Rice:** 24 vs 8. The math: 45% caught, 0% picked off. 20 throws: 8 caught,
+  12 incomplete, 0 intercepted. **Only 15 defenders can ever pick that pass off** (interceptions 63 or more), when
+  everyone is in AVERAGE condition. *Confirmed.*
+- **The computer gets better the more you win.** In a season against the computer, your wins minus your losses picks
+  a row of boosts. At 16-0 its defenders get +6 interceptions steps (Deion 56 plays like 94) and its quarterback and
+  receivers +9. Same Montana to Rice, 20 throws: 6 caught, 12 incomplete, 2 intercepted. *Confirmed.*
+
 ## Files
 
 | File | What it is |
@@ -39,6 +58,8 @@ ratings really work, then raced the players in an emulator, frame by frame, to c
 | [`tests/zigzag_race_40_yards.csv`](tests/zigzag_race_40_yards.csv) | Five runners, 40 yards, everyone cutting 90 degrees every 16 frames |
 | [`tests/chase_bo_vs_deion_*.csv`](tests) | Bo against Deion Sanders, four runs: straight, 90-degree cut, 45-degree cut, two cuts. Every frame: both players' positions and speeds |
 | [`tests/chase_bo_vs_lt_*.csv`](tests) | The same against Lawrence Taylor, three runs: straight, one 45-degree cut, two cuts |
+| [`tests/pass_drills.csv`](tests/pass_drills.csv) | Episode 8's pass drills, every throw and its result: Aikman to Irvin vs Carrier, Montana to Rice vs Carrier, wide open, vs Deion, vs Deion at 16-0 |
+| [`tests/pass_rule_checks.csv`](tests/pass_rule_checks.csv) | The in-game checks of the 5-step rule and of the "only 15" cutoff (the game's own roll and result) |
 
 ## The ratings (`player_ratings.csv`)
 
@@ -47,11 +68,12 @@ the step (0 to 15), not the number; there's no real 100-point scale inside the g
 
 | Column | What it does | Status |
 |---|---|---|
-| `max_speed` | Top speed. Gives two top speeds: one with the ball and one without (below) | Confirmed |
+| `max_speed` | Top speed. Gives two top speeds: one on offense and one on defense (below) | Confirmed |
 | `running_speed` | The speed you start at: from a standstill and after every hard cut | Confirmed |
 | `rushing_power` | How fast you build back up to top speed | Confirmed |
 | `hitting_power` | Used when two players grapple (not traced fully yet) | From code |
-| `passing_speed`, `pass_control`, `receptions`, `pass_interceptions` | Passing and catching. More with the next video | |
+| `pass_control`, `receptions`, `pass_interceptions` | Who wins a pass when a defender is close, and whether an open receiver can drop it (below) | Confirmed |
+| `passing_speed` | How fast the ball travels (not traced yet) | |
 | `ball_control`, `kicking_ability`, `avoid_kick_block`, `avoid_pass_block`, `accuracy_of_passing`, `quickness` | More with the next video | |
 | `team`, `roster_slot`, `position_slot`, `jersey` | The roster slot sets the record's layout, not the position: Washington's slot 3 (an RB slot) is WR Ricky Sanders | Confirmed |
 
@@ -67,9 +89,9 @@ by one step: BAD -1, AVERAGE 0, GOOD +1, EXCELLENT +2.
 The field is 8 pixels to a yard; the game runs at about 60 frames a second. A player's **current speed** climbs toward
 his **top speed**; every 32 speed units are 1 pixel a frame, so a speed of 32 is about 7.5 yards a second.
 
-1. **Top speed with the ball** (a human-controlled ball carrier): 21 + max speed step. Bo (75, step 11): 32, about
+1. **Top speed on offense** (every offensive player, with the ball or not): 21 + max speed step. Bo (75, step 11): 32, about
    7.5 yards a second, 15 mph. A kicker (81, step 12): 33.
-2. **Top speed without the ball** (a defender chasing, a player on kickoff coverage): 37 + max speed step. Deion
+2. **Top speed on defense** (every defender, and the kicking team on kickoffs): 37 + max speed step. Deion
    (75): 48, over 11 yards a second. Lawrence Taylor (69): 47.
 3. **Start speed:** from a standstill and after every hard cut, the current speed is set to 14 + running speed step.
    Bo (38, step 5): 19. Okoye (63, step 9): 23.
@@ -118,11 +140,67 @@ by the game's own chasing code. Everyone else is moved out of the way. One real 
 The rule works on defenders too: a defender who has to turn 90 degrees or more drops to his start speed, and for a
 moment he's slower than Bo. See `charts/02_chase_speeds_bo_vs_deion.png` and the `tests/chase_*.csv` files.
 
-## The one test change in the video
+## How a pass is decided (Episode 8)
 
-The end-zone trucking (Bo running through defenders) is **not** the normal game: it's a copy of the game with Bo's
-hitting power raised from 31 to 100 and the goal line and dives switched off, said on screen in the video. Every race
-and chase above is the unmodified game.
+When the ball gets to the receiver, the game adds two steps: the **quarterback's pass control** and the **receiver's
+receptions**.
+
+- **Nobody close:** the catch is certain once those two steps add up to 18 or more (Montana to Rice: 12 + 12). Below
+  that, the receiver can drop it: from about 70% caught (both at the bottom) up to 97%.
+- **A defender close:** the gap is (pass control + receptions) minus the **defender's interceptions** step. The game
+  rolls its dice once, using only the top half of the range (128 to 255). From the code: X = 71 + 2 x gap, and
+  v = roll x X / 256. Under 51 is intercepted, under 80 incomplete, otherwise caught. Two or three close defenders
+  each get their own roll, in turn.
+
+| Steps better | Caught | Incomplete | Picked off |
+|---|---|---|---|
+| 0 | 0% | 56% | 44% |
+| 1 | 0% | 60% | 40% |
+| 4 | 0% | 70% | 30% |
+| 5 | 2% | 71% | 27% |
+| 6 | 7% | 70% | 23% |
+| 10 | 23% | 64% | 12% |
+| 12 | 31% | 61% | 8% |
+| 16 | 45% | 55% | 0% |
+| 24 | 65% | 35% | 0% |
+
+At 4 steps better, even the best roll gives v = 78: never a catch. At 5, the three best rolls (253 to 255) give 80: a
+2% catch. In the game we made the gap exactly 5 and 4 and made the defender roll 252, 253 and 255. Every result came
+out as above (`tests/pass_rule_checks.csv`).
+
+**Who can pick off Montana to Rice?** 12 + 12 against the defender's interceptions step. At 56 (step 8), even the
+lowest roll gives v = 51: never. At 63 (step 9) it gives 50: a pick, about 2% of the time. Checked in the game the same
+way. That's 15 players: Mark Carrier (81); Richard Johnson and Wayne Haddix (75); David Fulcher, Gill Byrd, Martin
+Mayhew, Lemuel Stinson, Joey Browner and Dave Waymer (69); Ronnie Lippett, Erik McMillan, Rod Woodson, Gary Reasons,
+Everson Walls and Donnell Woolford (63). Condition moves every rating (above): a Deion in EXCELLENT condition plays
+like 69 and can do it, and the computer's boost (below) lets any corner do it.
+
+## The computer's boost (Episode 8)
+
+Only in a season game against the computer (one human team): the computer gets one row of boosts, picked by the
+human team's **wins minus losses** (0 if you have a losing record, and in preseason). Values are steps, capped at
+step 15 (100).
+
+| Your record | Its defenders' speed | Its ball carrier's speed | Its interceptions | Its passing and catching |
+|---|---|---|---|---|
+| 0-0 (or worse) | 0 | +1 | 0 | 0 |
+| 4-0 | +2 | +2 | +2 | +3 |
+| 8-0 | +2 | +2 | +3 | +5 |
+| 16-0 | +3 | +4 | +6 | +9 |
+
+The rows were measured in the running game. Which players get each boost is from the code: the speed boost goes to
+the computer's defenders at the snap and to its ball carrier when he gets the ball (even at 0-0 he gets +1); its
+receivers on their routes and its blockers get none. The Deion drill at 16-0 is in `tests/pass_drills.csv`.
+
+## Test changes
+
+- **Episode 7:** the end-zone trucking (Bo running through defenders) is **not** the normal game: it's a copy of the
+  game with Bo's hitting power raised from 31 to 100 and the goal line and dives switched off, said on screen in the
+  video. Every race and chase is the unmodified game.
+- **Episode 8:** in the pass drills the field is cleared down to the players being tested, and Carrier is moved up the
+  depth chart so he's the one covering (no ratings changed). For the 16-0 drill the boost row and the standings record
+  were set directly. For the rule checks (`pass_rule_checks.csv`) Rice's receptions or the defender's interceptions
+  were changed in the emulator's memory, and the defender's roll was set to one the game can roll anyway.
 
 ## How we tested
 
@@ -136,7 +214,7 @@ notes, measurements and charts.
 
 Found something wrong, or something new? Open an issue.
 
-More Tecmo Super Bowl (passing, the computer's hidden boost, injuries) comes with the next video. The other games are
+More Tecmo Super Bowl (ratings that do nothing, the computer's play-calling, injuries) comes with the next video. The other games are
 on the [main page](../README.md).
 
 ---

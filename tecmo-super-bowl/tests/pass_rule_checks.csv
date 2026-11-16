@@ -1,0 +1,21 @@
+check,setup,defender_roll,X,v,result
+steps better,Montana 12 + Rice 5 vs Carrier 12 = 5 steps better,255,81,80,catch
+steps better,Montana 12 + Rice 5 vs Carrier 12 = 5 steps better,255,81,80,catch
+steps better,Montana 12 + Rice 4 vs Carrier 12 = 4 steps better,255,79,78,incomplete
+steps better,Montana 12 + Rice 4 vs Carrier 12 = 4 steps better,255,79,78,incomplete
+steps better,Montana 12 + Rice 5 vs Carrier 12 = 5 steps better,253,81,80,catch
+steps better,Montana 12 + Rice 5 vs Carrier 12 = 5 steps better,253,81,80,catch
+steps better,Montana 12 + Rice 4 vs Carrier 12 = 4 steps better,253,79,78,incomplete
+steps better,Montana 12 + Rice 4 vs Carrier 12 = 4 steps better,253,79,78,incomplete
+steps better,Montana 12 + Rice 5 vs Carrier 12 = 5 steps better,252,81,79,incomplete
+steps better,Montana 12 + Rice 5 vs Carrier 12 = 5 steps better,252,81,79,incomplete
+steps better,Montana 12 + Rice 4 vs Carrier 12 = 4 steps better,252,79,77,incomplete
+steps better,Montana 12 + Rice 4 vs Carrier 12 = 4 steps better,252,79,77,incomplete
+only 15,Montana 12 + Rice 12 vs a defender at interceptions step 8 (56),128,103,51,incomplete
+only 15,Montana 12 + Rice 12 vs a defender at interceptions step 8 (56),128,103,51,incomplete
+only 15,Montana 12 + Rice 12 vs a defender at interceptions step 8 (56),129,103,51,incomplete
+only 15,Montana 12 + Rice 12 vs a defender at interceptions step 8 (56),129,103,51,incomplete
+only 15,Montana 12 + Rice 12 vs a defender at interceptions step 9 (63),128,101,50,intercepted
+only 15,Montana 12 + Rice 12 vs a defender at interceptions step 9 (63),128,101,50,intercepted
+only 15,Montana 12 + Rice 12 vs a defender at interceptions step 9 (63),129,101,50,intercepted
+only 15,Montana 12 + Rice 12 vs a defender at interceptions step 9 (63),129,101,50,intercepted
