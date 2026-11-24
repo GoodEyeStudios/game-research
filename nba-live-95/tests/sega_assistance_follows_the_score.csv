@@ -1,0 +1,8 @@
+step,score,clock,boost
+1,10-0,1:30,on (trailing team)
+2,10-9 (down 1),1:30,off
+3,10-7 (down 3),1:30,on
+4,10-8 (down 2),1:30,off
+5,10-0,1:30,on
+6,0-10 (the other team now down),1:30,"on, for the other team"
+7,0-10,2:30,off

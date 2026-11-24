@@ -1,0 +1,9 @@
+shot,player,shoot_button_held_frames,held_seconds,shooter_value_before_timing,shooter_value_after_timing,halved,chance_pct,dice_said,result
+1,Vernon Maxwell,6,0.1,111,55,yes,34.2,miss,
+2,Vernon Maxwell,12,0.2,111,55,yes,34.2,good,
+3,Vernon Maxwell,18,0.3,111,111,no,69.1,good,
+4,Vernon Maxwell,22,0.37,111,111,no,69.1,miss,
+5,Vernon Maxwell,26,0.43,111,111,no,69.1,good,
+6,Vernon Maxwell,30,0.5,111,55,yes,34.2,miss,
+7,Vernon Maxwell,36,0.6,111,55,yes,38.6,miss,
+8,Vernon Maxwell,44,0.73,,,,,,"held too long: landed with the ball, no shot"

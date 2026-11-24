@@ -1,0 +1,6 @@
+case,fatigue_option,energy_of_127,dunking,dunk_chance_pct,result
+1,off,,94,95.3,made
+2,on,127,94,83.2,made
+3,on,96,94,85.9,made
+4,on,64,94,89.1,made
+5,on,16,94,93.8,made

@@ -1,0 +1,5 @@
+shot,spot,ratings,field_goals,three_points,shooting_range_ft,game_distance_ft,rating_used,counts_as,chance_pct,dice_said,points_scored
+1,"Long two, short side of the arc",Reggie Miller's ratings on John Starks,93,92,27.2,21.5,Field Goals,2,63.9,good,2
+2,"Three, short side of the arc",Reggie Miller's ratings on John Starks,93,92,27.2,23.5,Field Goals,3,63.9,good,3
+3,"Three, top of the key",Reggie Miller's ratings on John Starks,93,92,27.2,28.8,3 Points,3,54.7,miss,3
+4,"Three, long side of the arc",Reggie Miller's ratings on John Starks,93,92,27.2,29.4,3 Points,3,44.6,good,3

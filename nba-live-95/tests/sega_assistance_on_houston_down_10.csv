@@ -1,0 +1,11 @@
+shot,kind,player,shooter_value_before_assistance,shooter_value_after_assistance,chance_pct,dice_said
+1,jump shot,Patrick Ewing,83,83,70.9,miss
+2,jump shot,Patrick Ewing,73,73,62.4,good
+3,dunk,Vernon Maxwell,,,100.0,good
+4,jump shot,Charles C. Smith,91,91,71.1,good
+5,jump shot,Hakeem Olajuwon,91,123,96.1,good
+6,jump shot,John Starks,64,64,39.8,miss
+7,jump shot,Charles Oakley,91,91,77.8,good
+8,jump shot,Vernon Maxwell,111,143,83.8,good
+9,jump shot,Charles Oakley,71,71,60.7,good
+10,jump shot,Sam Cassell,82,114,71.0,good

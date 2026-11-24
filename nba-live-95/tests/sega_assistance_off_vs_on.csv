@@ -1,0 +1,7 @@
+shot,pair,sega_assistance,spot,shooter_value,chance_pct,dice_said,made
+1,1,off,"three, 23.6 ft out",112,56.7,miss,no
+2,1,on,"three, 23.6 ft out",144,73.0,good,yes
+3,2,off,"three, 23.6 ft out",112,56.7,miss,no
+4,2,on,"three, 23.6 ft out",144,73.0,good,yes
+5,3,off,"long two, 21.4 ft out",104,56.5,miss,no
+6,3,on,"long two, 21.4 ft out",136,73.9,good,yes

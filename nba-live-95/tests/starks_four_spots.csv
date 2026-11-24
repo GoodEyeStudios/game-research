@@ -1,0 +1,5 @@
+shot,spot,ratings,field_goals,three_points,shooting_range_ft,game_distance_ft,rating_used,counts_as,chance_pct,dice_said,points_scored
+1,"Long two, short side of the arc",John Starks,78,86,26.1,21.5,Field Goals,2,55.1,good,2
+2,"Three, short side of the arc",John Starks,78,86,26.1,23.5,Field Goals,3,55.1,miss,0
+3,"Three, top of the key",John Starks,78,86,26.1,28.8,3 Points,3,51.7,miss,0
+4,"Three, long side of the arc",John Starks,78,86,26.1,29.4,3 Points,3,41.5,good,3

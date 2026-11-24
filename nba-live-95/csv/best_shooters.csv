@@ -1,0 +1,325 @@
+player,team,position,field_goals,three_points,shooting_range_ft,free_throw_pct_computer,mid_range_19ft_pct,mid_range_19ft_points_per_shot,corner_three_22ft_pct,corner_three_22ft_points_per_shot,top_of_key_three_27ft_pct,top_of_key_three_27ft_points_per_shot,long_wing_three_29ft_pct,long_wing_three_29ft_points_per_shot
+Jon Koncak,Atlanta Hawks,C,65,50,19.0,65.6,56.7,1.13,44.5,1.34,41.3,1.24,38.5,1.16
+Kevin Willis,Atlanta Hawks,PF,82,55,19.0,69.5,67.2,1.34,47.5,1.42,44.0,1.32,41.0,1.23
+Danny Manning,Atlanta Hawks,SF,83,65,23.8,65.6,67.9,1.36,63.9,1.92,49.4,1.48,46.1,1.38
+Stacey Augmon,Atlanta Hawks,SG,78,70,22.5,73.4,64.7,1.29,60.9,1.83,52.1,1.56,48.6,1.46
+Mookie Blaylock,Atlanta Hawks,PG,88,87,27.2,69.5,71.0,1.42,66.8,2.0,61.9,1.86,57.2,1.72
+Ennis Whatley,Atlanta Hawks,PG,68,57,21.4,69.5,58.5,1.17,48.6,1.46,45.1,1.35,42.0,1.26
+Ken Norman,Atlanta Hawks,SF,75,83,21.4,53.9,62.9,1.26,63.9,1.92,59.2,1.78,55.2,1.66
+Craig Ehlo,Atlanta Hawks,SG,86,85,27.2,69.5,69.7,1.39,65.6,1.97,60.8,1.83,56.2,1.69
+Andrew Lang,Atlanta Hawks,C,70,55,14.2,65.6,50.4,1.01,47.5,1.42,44.0,1.32,41.0,1.23
+Duane Ferrell,Atlanta Hawks,SF,71,60,17.8,77.3,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Adam Keefe,Atlanta Hawks,PF,73,60,21.4,69.5,61.6,1.23,50.4,1.51,46.7,1.4,43.6,1.31
+Doug Edwards,Atlanta Hawks,SF,70,62,20.1,53.9,59.8,1.2,51.6,1.55,47.8,1.43,44.6,1.34
+Pervis Ellison,Boston Celtics,C,82,60,19.0,69.5,67.2,1.34,50.4,1.51,46.7,1.4,43.6,1.31
+Dino Radja,Boston Celtics,PF,84,60,23.8,73.4,68.5,1.37,64.5,1.93,46.7,1.4,43.6,1.31
+Dominique D. Wilkins,Boston Celtics,SF,82,82,22.5,81.2,67.2,1.34,63.3,1.9,58.7,1.76,54.7,1.64
+Dee D. Brown,Boston Celtics,SG,83,82,22.5,81.2,67.9,1.36,63.9,1.92,58.7,1.76,54.7,1.64
+Sherman Douglas,Boston Celtics,PG,73,70,22.5,61.7,61.6,1.23,58.0,1.74,52.1,1.56,48.6,1.46
+Xavier McDaniel,Boston Celtics,SF,74,65,19.0,65.6,62.3,1.25,53.3,1.6,49.4,1.48,46.1,1.38
+Matt Wenstrom,Boston Celtics,C,75,60,14.2,69.5,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Blue Edwards,Boston Celtics,SF,80,79,21.4,77.3,66.0,1.32,61.5,1.85,57.0,1.71,53.2,1.6
+Derek Strong,Boston Celtics,SF,72,60,20.1,73.4,61.0,1.22,50.4,1.51,46.7,1.4,43.6,1.31
+Rick Fox,Boston Celtics,SF,72,84,26.1,73.4,61.0,1.22,57.4,1.72,59.8,1.79,55.7,1.67
+Acie Earl,Boston Celtics,C,66,57,14.2,65.6,51.7,1.03,48.6,1.46,45.1,1.35,42.0,1.26
+Jimmy Oliver,Boston Celtics,SG,72,70,27.2,73.4,61.0,1.22,57.4,1.72,53.2,1.6,48.6,1.46
+Alonzo Mourning,Charlotte Hornets,C,84,60,21.4,73.4,68.5,1.37,50.4,1.51,46.7,1.4,43.6,1.31
+Larry L. Johnson,Charlotte Hornets,PF,86,70,23.8,69.5,69.7,1.39,65.6,1.97,52.1,1.56,48.6,1.46
+David Wingate,Charlotte Hornets,SF,72,67,22.5,65.6,61.0,1.22,57.4,1.72,50.5,1.52,47.1,1.41
+Hersey Hawkins,Charlotte Hornets,SG,87,85,27.2,85.2,70.3,1.41,66.2,1.99,61.4,1.84,56.2,1.69
+Muggsy Bogues,Charlotte Hornets,PG,80,75,23.8,77.3,66.0,1.32,62.1,1.86,54.9,1.65,51.2,1.53
+Michael Adams,Charlotte Hornets,PG,76,78,24.9,81.2,63.5,1.27,59.8,1.79,56.5,1.69,52.7,1.58
+Robert Parish,Charlotte Hornets,C,79,55,17.8,73.4,50.4,1.01,47.5,1.42,44.0,1.32,41.0,1.23
+Dell Curry,Charlotte Hornets,SG,76,85,27.2,85.2,63.5,1.27,59.8,1.79,55.4,1.66,56.2,1.69
+Eddie E. Johnson,Charlotte Hornets,SF,75,84,19.0,85.2,62.9,1.26,64.5,1.93,59.8,1.79,55.7,1.67
+Kenny Gattison,Charlotte Hornets,PF,75,60,19.0,61.7,62.9,1.26,50.4,1.51,46.7,1.4,43.6,1.31
+Scott Burrell,Charlotte Hornets,SF,70,65,22.5,65.6,59.8,1.2,56.2,1.69,49.4,1.48,46.1,1.38
+Tony Bennett,Charlotte Hornets,PG,77,77,27.2,69.5,64.1,1.28,60.4,1.81,56.0,1.68,52.2,1.57
+Luc Longley,Chicago Bulls,C,70,55,15.4,69.5,50.4,1.01,47.5,1.42,44.0,1.32,41.0,1.23
+Toni Kukoc,Chicago Bulls,PF,78,77,24.9,73.4,64.7,1.29,60.9,1.83,56.0,1.68,52.2,1.57
+Scottie Pippen,Chicago Bulls,SF,83,83,26.1,65.6,67.9,1.36,63.9,1.92,59.2,1.78,55.2,1.66
+Pete Myers,Chicago Bulls,SG,70,72,23.8,69.5,59.8,1.2,56.2,1.69,53.2,1.6,49.6,1.49
+B.J. Armstrong,Chicago Bulls,PG,91,91,27.2,85.2,72.8,1.46,68.6,2.06,63.6,1.91,59.3,1.78
+Bill Cartwright,Chicago Bulls,C,60,50,16.6,65.6,47.3,0.95,44.5,1.34,41.3,1.24,38.5,1.16
+Corie Blount,Chicago Bulls,PF,67,60,14.2,57.8,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Steve Kerr,Chicago Bulls,PG,83,86,27.2,85.2,67.9,1.36,63.9,1.92,59.2,1.78,56.7,1.7
+Bill Wennington,Chicago Bulls,C,75,60,16.6,81.2,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+John Paxson,Chicago Bulls,PG,85,80,27.2,81.2,69.1,1.38,65.0,1.95,60.3,1.81,53.7,1.61
+Jo Jo English,Chicago Bulls,SG,82,80,23.8,53.9,67.2,1.34,63.3,1.9,57.6,1.73,53.7,1.61
+Will Perdue,Chicago Bulls,C,76,65,14.2,69.5,56.7,1.13,53.3,1.6,49.4,1.48,46.1,1.38
+Brad Daugherty,Cleveland Cavaliers,C,83,52,20.1,77.3,67.9,1.36,45.7,1.37,42.4,1.27,39.5,1.19
+Tyrone Hill,Cleveland Cavaliers,PF,75,60,19.0,65.6,62.9,1.26,50.4,1.51,46.7,1.4,43.6,1.31
+Chris Mills,Cleveland Cavaliers,SF,75,68,24.9,77.3,62.9,1.26,59.2,1.78,51.1,1.53,47.6,1.43
+Gerald G. Wilkins,Cleveland Cavaliers,SG,80,95,23.8,77.3,66.0,1.32,62.1,1.86,65.7,1.97,61.3,1.84
+Mark Price,Cleveland Cavaliers,PG,95,94,27.2,85.2,75.3,1.51,70.9,2.13,65.7,1.97,60.8,1.82
+Michael Cage,Cleveland Cavaliers,C,70,55,14.2,53.9,50.4,1.01,47.5,1.42,44.0,1.32,41.0,1.23
+John J. Williams,Cleveland Cavaliers,PF,82,62,19.0,69.5,67.2,1.34,51.6,1.55,47.8,1.43,44.6,1.34
+Terrell Brandon,Cleveland Cavaliers,PG,72,70,24.9,85.2,61.0,1.22,57.4,1.72,52.1,1.56,48.6,1.46
+Bobby Phills,Cleveland Cavaliers,SF,70,65,24.9,69.5,59.8,1.2,56.2,1.69,49.4,1.48,46.1,1.38
+Danny Ferry,Cleveland Cavaliers,SF,72,68,22.5,85.2,61.0,1.22,57.4,1.72,51.1,1.53,47.6,1.43
+John Battle,Cleveland Cavaliers,SG,72,72,24.9,73.4,61.0,1.22,57.4,1.72,53.2,1.6,49.6,1.49
+Gerald Madkins,Cleveland Cavaliers,SG,81,77,23.8,77.3,66.6,1.33,62.7,1.88,56.0,1.68,52.2,1.57
+Sean Rooks,Dallas Mavericks,C,75,60,15.4,69.5,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Doug D. Smith,Dallas Mavericks,PF,72,70,14.2,81.2,59.8,1.2,56.2,1.69,52.1,1.56,48.6,1.46
+Jamal Mashburn,Dallas Mavericks,SF,80,77,22.5,69.5,66.0,1.32,62.1,1.86,56.0,1.68,52.2,1.57
+Jim J. Jackson,Dallas Mavericks,SG,87,75,24.9,81.2,70.3,1.41,66.2,1.99,54.9,1.65,51.2,1.53
+Fat Lever,Dallas Mavericks,PG,71,75,23.8,73.4,60.4,1.21,56.8,1.71,54.9,1.65,51.2,1.53
+Ron Jones,Dallas Mavericks,PF,77,57,13.0,69.5,51.7,1.03,48.6,1.46,45.1,1.35,42.0,1.26
+Tony Campbell,Dallas Mavericks,SF,77,72,24.9,77.3,64.1,1.28,60.4,1.81,53.2,1.6,49.6,1.49
+Lucious Harris,Dallas Mavericks,SG,72,70,22.5,69.5,61.0,1.22,57.4,1.72,52.1,1.56,48.6,1.46
+Terry Davis,Dallas Mavericks,PF,74,63,16.6,57.8,55.4,1.11,52.1,1.56,48.3,1.45,45.1,1.35
+Tim Legler,Dallas Mavericks,SG,77,83,23.8,81.2,64.1,1.28,60.4,1.81,59.2,1.78,55.2,1.66
+Lorenzo Williams,Dallas Mavericks,SF,70,55,14.2,53.9,50.4,1.01,47.5,1.42,44.0,1.32,41.0,1.23
+Morlon Wiley,Dallas Mavericks,PG,72,81,22.5,69.5,61.0,1.22,57.4,1.72,58.1,1.74,54.2,1.63
+Dikembe Mutombo,Denver Nuggets,C,85,60,14.2,57.8,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+LaPhonso L. Ellis,Denver Nuggets,PF,87,70,20.1,65.6,70.3,1.41,56.2,1.69,52.1,1.56,48.6,1.46
+Reggie R. Williams,Denver Nuggets,SF,85,84,24.9,69.5,69.1,1.38,65.0,1.95,59.8,1.79,55.7,1.67
+Bryant Stith,Denver Nuggets,SG,80,70,26.1,81.2,66.0,1.32,62.1,1.86,52.1,1.56,48.6,1.46
+Mahmoud Abdul-Rauf,Denver Nuggets,PG,90,83,27.2,93.0,72.2,1.44,68.0,2.04,63.0,1.89,55.2,1.66
+Kevin K. Brooks,Denver Nuggets,SF,65,62,17.8,77.3,54.8,1.1,51.6,1.55,47.8,1.43,44.6,1.34
+Brian B. Williams,Denver Nuggets,C,72,60,17.8,61.7,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Robert Pack,Denver Nuggets,PG,75,75,23.8,73.4,62.9,1.26,59.2,1.78,54.9,1.65,51.2,1.53
+Rodney Rogers,Denver Nuggets,SF,71,78,19.0,65.6,60.4,1.21,60.9,1.83,56.5,1.69,52.7,1.58
+Tom Hammonds,Denver Nuggets,PF,67,60,19.0,65.6,57.9,1.16,50.4,1.51,46.7,1.4,43.6,1.31
+Darnell Mee,Denver Nuggets,SG,70,65,23.8,53.9,59.8,1.2,56.2,1.69,49.4,1.48,46.1,1.38
+Mark Randall,Denver Nuggets,PF,60,60,19.0,77.3,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Mark West,Detroit Pistons,C,75,55,17.8,53.9,50.4,1.01,47.5,1.42,44.0,1.32,41.0,1.23
+Terry Mills,Detroit Pistons,PF,90,68,21.4,77.3,72.2,1.44,55.1,1.65,51.1,1.53,47.6,1.43
+Allan Houston,Detroit Pistons,SF,75,75,21.4,77.3,62.9,1.26,59.2,1.78,54.9,1.65,51.2,1.53
+Joe Dumars,Detroit Pistons,SG,84,87,24.9,81.2,68.5,1.37,64.5,1.93,61.4,1.84,57.2,1.72
+Lindsey Hunter,Detroit Pistons,PG,78,77,23.8,69.5,64.7,1.29,60.9,1.83,56.0,1.68,52.2,1.57
+Greg G. Anderson,Detroit Pistons,PF,77,60,16.6,57.8,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Eric Leckner,Detroit Pistons,C,65,55,19.0,61.7,56.7,1.13,47.5,1.42,44.0,1.32,41.0,1.23
+Pete Chilcutt,Detroit Pistons,PF,72,65,17.8,69.5,56.7,1.13,53.3,1.6,49.4,1.48,46.1,1.38
+David Wood,Detroit Pistons,PF,68,67,19.0,73.4,58.5,1.17,54.5,1.63,50.5,1.52,47.1,1.41
+Mark Macon,Detroit Pistons,SG,68,67,23.8,65.6,58.5,1.17,55.1,1.65,50.5,1.52,47.1,1.41
+Rafael Addison,Detroit Pistons,SF,70,67,21.4,77.3,59.8,1.2,54.5,1.63,50.5,1.52,47.1,1.41
+Charles C. Jones,Detroit Pistons,PF,70,57,15.4,53.9,51.7,1.03,48.6,1.46,45.1,1.35,42.0,1.26
+Chris Webber,Golden State Warriors,C,90,67,22.5,53.9,72.2,1.44,68.0,2.04,50.5,1.52,47.1,1.41
+Billy Owens,Golden State Warriors,PF,80,65,22.5,57.8,66.0,1.32,62.1,1.86,49.4,1.48,46.1,1.38
+Chris Mullin,Golden State Warriors,SF,88,88,27.2,89.1,71.0,1.42,66.8,2.0,61.9,1.86,57.8,1.73
+Latrell Sprewell,Golden State Warriors,SG,86,89,26.1,77.3,69.7,1.39,65.6,1.97,62.5,1.87,58.3,1.75
+Tim T. Hardaway,Golden State Warriors,PG,85,85,23.8,89.1,69.1,1.38,65.0,1.95,60.3,1.81,56.2,1.69
+Jud Buechler,Golden State Warriors,SF,71,64,19.0,65.6,60.4,1.21,52.7,1.58,48.9,1.47,45.6,1.37
+Jeff Grayer,Golden State Warriors,SG,67,65,23.8,61.7,57.9,1.16,54.5,1.63,49.4,1.48,46.1,1.38
+Chris Gatling,Golden State Warriors,PF,70,60,17.8,61.7,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Keith Jennings,Golden State Warriors,PG,77,80,21.4,81.2,64.1,1.28,62.1,1.86,57.6,1.73,53.7,1.61
+Ricky Pierce,Golden State Warriors,SG,82,80,24.9,89.1,67.2,1.34,63.3,1.9,57.6,1.73,53.7,1.61
+Victor Alexander,Golden State Warriors,C,72,60,17.8,53.9,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Josh Grant,Golden State Warriors,SF,75,74,23.8,65.6,62.9,1.26,59.2,1.78,54.3,1.63,50.7,1.52
+Hakeem Olajuwon,Houston Rockets,C,95,68,20.1,69.5,75.3,1.51,55.1,1.65,51.1,1.53,47.6,1.43
+Otis Thorpe,Houston Rockets,PF,82,60,20.1,65.6,67.2,1.34,50.4,1.51,46.7,1.4,43.6,1.31
+Robert Horry,Houston Rockets,SF,80,72,22.5,69.5,66.0,1.32,62.1,1.86,53.2,1.6,49.6,1.49
+Vernon Maxwell,Houston Rockets,SG,85,80,24.9,73.4,69.1,1.38,65.0,1.95,57.6,1.73,53.7,1.61
+Sam Cassell,Houston Rockets,PG,76,75,23.8,81.2,63.5,1.27,59.8,1.79,54.9,1.65,51.2,1.53
+Kenny K. Smith,Houston Rockets,PG,79,87,24.9,85.2,65.4,1.31,61.5,1.85,61.4,1.84,57.2,1.72
+Scott Brooks,Houston Rockets,PG,76,75,26.1,85.2,63.5,1.27,59.8,1.79,54.9,1.65,51.2,1.53
+Carl Herrera,Houston Rockets,PF,72,60,19.0,69.5,61.0,1.22,50.4,1.51,46.7,1.4,43.6,1.31
+Roster PForward,Houston Rockets,PF,70,60,13.0,61.7,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Eric Riley,Houston Rockets,C,65,57,17.8,53.9,51.7,1.03,48.6,1.46,45.1,1.35,42.0,1.26
+Chris Jent,Houston Rockets,SF,75,76,23.8,69.5,62.9,1.26,59.2,1.78,55.4,1.66,51.7,1.55
+Larry Robinson,Houston Rockets,SG,73,73,21.4,69.5,61.6,1.23,58.0,1.74,53.8,1.61,50.2,1.5
+Rik Smits,Indiana Pacers,C,80,57,19.0,77.3,66.0,1.32,48.6,1.46,45.1,1.35,42.0,1.26
+Dale D. Davis,Indiana Pacers,PF,80,60,17.8,53.9,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Derrick McKey,Indiana Pacers,SF,82,72,22.5,73.4,67.2,1.34,63.3,1.9,53.2,1.6,49.6,1.49
+Reggie R. Miller,Indiana Pacers,SG,93,92,27.2,89.1,74.1,1.48,69.7,2.09,64.6,1.94,59.8,1.79
+Mark M. Jackson,Indiana Pacers,PG,77,77,24.9,77.3,64.1,1.28,60.4,1.81,56.0,1.68,52.2,1.57
+Haywoode Workman,Indiana Pacers,PG,76,75,23.8,77.3,63.5,1.27,59.8,1.79,54.9,1.65,51.2,1.53
+Antonio A. Davis,Indiana Pacers,PF,70,57,17.8,61.7,51.7,1.03,48.6,1.46,45.1,1.35,42.0,1.26
+Byron B. Scott,Indiana Pacers,SG,76,83,24.9,77.3,63.5,1.27,59.8,1.79,59.2,1.78,55.2,1.66
+Sam S. Mitchell,Indiana Pacers,PF,72,60,19.0,73.4,61.0,1.22,50.4,1.51,46.7,1.4,43.6,1.31
+Vern Fleming,Indiana Pacers,PG,75,65,23.8,73.4,62.9,1.26,59.2,1.78,49.4,1.48,46.1,1.38
+LaSalle Thompson,Indiana Pacers,C,70,57,13.0,53.9,51.7,1.03,48.6,1.46,45.1,1.35,42.0,1.26
+Scott Haskin,Indiana Pacers,PF,75,55,17.8,65.6,50.4,1.01,47.5,1.42,44.0,1.32,41.0,1.23
+Stanley Roberts,Los Angeles Clippers,C,75,60,17.8,50.0,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Loy Vaught,Los Angeles Clippers,PF,77,60,16.6,69.5,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Malik Sealy,Los Angeles Clippers,SF,70,67,22.5,65.6,59.8,1.2,56.2,1.69,50.5,1.52,47.1,1.41
+Terry Dehere,Los Angeles Clippers,SG,70,79,26.1,73.4,59.8,1.2,56.2,1.69,57.0,1.71,53.2,1.6
+Pooh Richardson,Los Angeles Clippers,PG,75,65,24.9,57.8,62.9,1.26,59.2,1.78,49.4,1.48,46.1,1.38
+Gary G. Grant,Los Angeles Clippers,PG,67,74,23.8,85.2,57.9,1.16,54.5,1.63,54.3,1.63,50.7,1.52
+Harold H. Ellis,Los Angeles Clippers,SF,70,60,19.0,69.5,59.8,1.2,50.4,1.51,46.7,1.4,43.6,1.31
+Elmore Spencer,Los Angeles Clippers,C,70,57,11.9,57.8,51.7,1.03,48.6,1.46,45.1,1.35,42.0,1.26
+Charles Outlaw,Los Angeles Clippers,PF,72,68,15.4,57.8,58.5,1.17,55.1,1.65,51.1,1.53,47.6,1.43
+Bob Martin,Los Angeles Clippers,C,60,50,16.6,57.8,47.3,0.95,44.5,1.34,41.3,1.24,38.5,1.16
+Ron R. Harper,Los Angeles Clippers,SG,80,77,24.9,77.3,66.0,1.32,62.1,1.86,56.0,1.68,52.2,1.57
+Randy Woods,Los Angeles Clippers,PG,70,77,23.8,69.5,59.8,1.2,56.2,1.69,56.0,1.68,52.2,1.57
+Vlade Divac,Los Angeles Lakers,C,77,67,21.4,65.6,64.1,1.28,54.5,1.63,50.5,1.52,47.1,1.41
+Elden Campbell,Los Angeles Lakers,PF,72,60,16.6,65.6,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+George Lynch,Los Angeles Lakers,SF,80,60,22.5,57.8,66.0,1.32,62.1,1.86,46.7,1.4,43.6,1.31
+Anthony Peeler,Los Angeles Lakers,SG,85,75,23.8,77.3,69.1,1.38,65.0,1.95,54.9,1.65,51.2,1.53
+Nick Van Exel,Los Angeles Lakers,PG,82,80,22.5,77.3,67.2,1.34,63.3,1.9,57.6,1.73,53.7,1.61
+Antonio Harvey,Los Angeles Lakers,PF,72,60,14.2,53.9,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Eddie Jones,Los Angeles Lakers,SF,80,77,21.4,65.6,66.0,1.32,60.4,1.81,56.0,1.68,52.2,1.57
+Sedale Threatt,Los Angeles Lakers,PG,85,84,26.1,85.2,69.1,1.38,65.0,1.95,59.8,1.79,55.7,1.67
+James Worthy,Los Angeles Lakers,SF,75,76,20.1,73.4,62.9,1.26,59.8,1.79,55.4,1.66,51.7,1.55
+Doug Christie,Los Angeles Lakers,SF,75,80,22.5,69.5,62.9,1.26,59.2,1.78,57.6,1.73,53.7,1.61
+Tony T. Smith,Los Angeles Lakers,SG,72,67,23.8,69.5,61.0,1.22,57.4,1.72,50.5,1.52,47.1,1.41
+Sam Bowie,Los Angeles Lakers,C,75,65,14.2,85.2,56.7,1.13,53.3,1.6,49.4,1.48,46.1,1.38
+Rony Seikaly,Miami Heat,C,82,60,19.0,69.5,67.2,1.34,50.4,1.51,46.7,1.4,43.6,1.31
+Grant Long,Miami Heat,PF,75,62,19.0,77.3,62.9,1.26,51.6,1.55,47.8,1.43,44.6,1.34
+Glen Rice,Miami Heat,SF,91,90,27.2,85.2,72.8,1.46,68.6,2.06,63.6,1.91,58.8,1.76
+Brian Shaw,Miami Heat,SG,75,83,23.8,69.5,62.9,1.26,59.2,1.78,59.2,1.78,55.2,1.66
+Steve S. Smith,Miami Heat,PG,78,85,24.9,81.2,64.7,1.29,60.9,1.83,60.3,1.81,56.2,1.69
+John Salley,Miami Heat,PF,75,57,19.0,69.5,62.9,1.26,48.6,1.46,45.1,1.35,42.0,1.26
+Harold Miner,Miami Heat,SG,72,70,21.4,81.2,61.0,1.22,56.2,1.69,52.1,1.56,48.6,1.46
+Bimbo Coles,Miami Heat,PG,76,75,21.4,77.3,63.5,1.27,59.2,1.78,54.9,1.65,51.2,1.53
+Matt Geiger,Miami Heat,C,65,57,17.8,77.3,51.7,1.03,48.6,1.46,45.1,1.35,42.0,1.26
+Willie Burton,Miami Heat,SF,72,67,20.1,73.4,61.0,1.22,54.5,1.63,50.5,1.52,47.1,1.41
+Keith Askins,Miami Heat,SF,67,65,16.6,73.4,56.7,1.13,53.3,1.6,49.4,1.48,46.1,1.38
+Alec Kessler,Miami Heat,PF,60,70,19.0,73.4,53.5,1.07,56.2,1.69,52.1,1.56,48.6,1.46
+Brad Lohaus,Milwaukee Bucks,C,67,75,23.8,65.6,57.9,1.16,54.5,1.63,54.9,1.65,51.2,1.53
+Vin Baker,Milwaukee Bucks,PF,82,60,20.1,53.9,67.2,1.34,50.4,1.51,46.7,1.4,43.6,1.31
+Ed Pinckney,Milwaukee Bucks,SF,69,60,17.8,73.4,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Todd Day,Milwaukee Bucks,SG,77,72,26.1,69.5,64.1,1.28,60.4,1.81,53.2,1.6,49.6,1.49
+Eric Murdock,Milwaukee Bucks,PG,77,86,26.1,77.3,64.1,1.28,60.4,1.81,60.8,1.83,56.7,1.7
+Lee Mayberry,Milwaukee Bucks,PG,72,80,22.5,65.6,61.0,1.22,57.4,1.72,57.6,1.73,53.7,1.61
+Roy Hinson,Milwaukee Bucks,PF,69,60,14.2,57.8,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Jon Barry,Milwaukee Bucks,SG,76,75,27.2,77.3,63.5,1.27,59.8,1.79,55.4,1.66,51.2,1.53
+Roster Center,Milwaukee Bucks,C,80,76,19.0,77.3,66.0,1.32,59.8,1.79,55.4,1.66,51.7,1.55
+Marty Conlon,Milwaukee Bucks,PF,75,65,17.8,69.5,56.7,1.13,53.3,1.6,49.4,1.48,46.1,1.38
+Joe Courtney,Milwaukee Bucks,PF,57,55,19.0,65.6,51.7,1.03,47.5,1.42,44.0,1.32,41.0,1.23
+Anthony Cook,Milwaukee Bucks,C,62,55,19.0,53.9,54.8,1.1,47.5,1.42,44.0,1.32,41.0,1.23
+Stacey S. King,Minnesota Timberwolves,C,72,60,16.6,65.6,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Christian Laettner,Minnesota Timberwolves,PF,87,65,23.8,77.3,70.3,1.41,66.2,1.99,49.4,1.48,46.1,1.38
+Doug West,Minnesota Timberwolves,SF,80,67,21.4,77.3,66.0,1.32,54.5,1.63,50.5,1.52,47.1,1.41
+Isaiah Rider,Minnesota Timberwolves,SG,80,83,23.8,77.3,66.0,1.32,62.1,1.86,59.2,1.78,55.2,1.66
+Micheal M. Williams,Minnesota Timberwolves,PG,77,70,22.5,81.2,64.1,1.28,60.4,1.81,52.1,1.56,48.6,1.46
+Mike M. Brown,Minnesota Timberwolves,C,67,55,16.6,61.7,50.4,1.01,47.5,1.42,44.0,1.32,41.0,1.23
+Brian B. Davis,Minnesota Timberwolves,SF,65,65,19.0,73.4,56.7,1.13,53.3,1.6,49.4,1.48,46.1,1.38
+Chris Smith,Minnesota Timberwolves,PG,70,67,23.8,65.6,59.8,1.2,56.2,1.69,50.5,1.52,47.1,1.41
+Thurl Bailey,Minnesota Timberwolves,SF,75,60,20.1,77.3,62.9,1.26,50.4,1.51,46.7,1.4,43.6,1.31
+Marlon Maxey,Minnesota Timberwolves,PF,70,60,17.8,69.5,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Tellis Frank,Minnesota Timberwolves,PF,65,60,16.6,69.5,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Andres Guibert,Minnesota Timberwolves,PF,70,57,11.9,57.8,51.7,1.03,48.6,1.46,45.1,1.35,42.0,1.26
+Benoit Benjamin,New Jersey Nets,C,72,55,14.2,69.5,50.4,1.01,47.5,1.42,44.0,1.32,41.0,1.23
+Derrick Coleman,New Jersey Nets,PF,92,65,22.5,73.4,73.5,1.47,69.1,2.07,49.4,1.48,46.1,1.38
+Chris Morris,New Jersey Nets,SF,77,83,23.8,69.5,64.1,1.28,60.4,1.81,59.2,1.78,55.2,1.66
+Kevin Edwards,New Jersey Nets,SG,78,77,24.9,73.4,64.7,1.29,60.9,1.83,56.0,1.68,52.2,1.57
+Kenny K. Anderson,New Jersey Nets,PG,80,84,24.9,81.2,66.0,1.32,62.1,1.86,59.8,1.79,55.7,1.67
+Armon Gilliam,New Jersey Nets,PF,75,60,17.8,73.4,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+P.J. Brown,New Jersey Nets,SF,72,60,17.8,73.4,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Rick Mahorn,New Jersey Nets,PF,73,63,16.6,61.7,55.4,1.11,52.1,1.56,48.3,1.45,45.1,1.35
+Jayson J. Williams,New Jersey Nets,PF,67,57,16.6,57.8,51.7,1.03,48.6,1.46,45.1,1.35,42.0,1.26
+Rex Walters,New Jersey Nets,SG,75,84,26.1,81.2,62.9,1.26,59.2,1.78,59.8,1.79,55.7,1.67
+Dwayne Schintzius,New Jersey Nets,C,65,50,14.2,57.8,47.3,0.95,44.5,1.34,41.3,1.24,38.5,1.16
+Sean Higgins,New Jersey Nets,SG,76,72,23.8,77.3,63.5,1.27,59.8,1.79,53.2,1.6,49.6,1.49
+Patrick Ewing,New York Knicks,C,92,72,21.4,73.4,73.5,1.47,57.4,1.72,53.2,1.6,49.6,1.49
+Charles Oakley,New York Knicks,PF,75,60,19.0,77.3,62.9,1.26,50.4,1.51,46.7,1.4,43.6,1.31
+Charles C. Smith,New York Knicks,SF,80,60,17.8,69.5,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+John Starks,New York Knicks,SG,78,86,26.1,73.4,64.7,1.29,60.9,1.83,60.8,1.83,56.7,1.7
+Derek D. Harper,New York Knicks,PG,84,84,23.8,65.6,68.5,1.37,64.5,1.93,59.8,1.79,55.7,1.67
+Greg Anthony,New York Knicks,PG,74,72,23.8,73.4,62.3,1.25,58.6,1.76,53.2,1.6,49.6,1.49
+Tim McCormick,New York Knicks,C,68,62,14.2,69.5,54.8,1.1,51.6,1.55,47.8,1.43,44.6,1.34
+Anthony Mason,New York Knicks,PF,75,60,19.0,69.5,62.9,1.26,50.4,1.51,46.7,1.4,43.6,1.31
+Hubert H. Davis,New York Knicks,SG,83,86,26.1,81.2,67.9,1.36,63.9,1.92,60.8,1.83,56.7,1.7
+Anthony Bonner,New York Knicks,PF,70,60,19.0,53.9,59.8,1.2,50.4,1.51,46.7,1.4,43.6,1.31
+Herb H. Williams,New York Knicks,PF,67,60,16.6,53.9,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Doc Rivers,New York Knicks,PG,78,70,22.5,61.7,64.7,1.29,60.9,1.83,52.1,1.56,48.6,1.46
+Shaquille O'Neal,Orlando Magic,C,95,60,10.6,53.9,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Horace H. Grant,Orlando Magic,PF,85,60,19.0,57.8,69.1,1.38,50.4,1.51,46.7,1.4,43.6,1.31
+Dennis D. Scott,Orlando Magic,SF,77,93,27.2,73.4,64.1,1.28,60.4,1.81,56.0,1.68,60.3,1.81
+Nick N. Anderson,Orlando Magic,SG,82,83,26.1,65.6,67.2,1.34,63.3,1.9,59.2,1.78,55.2,1.66
+Anfernee A. Hardaway,Orlando Magic,PG,85,76,23.8,73.4,69.1,1.38,65.0,1.95,55.4,1.66,51.7,1.55
+Jeff Turner,Orlando Magic,PF,75,75,23.8,77.3,62.9,1.26,59.2,1.78,54.9,1.65,51.2,1.53
+Donald Royal,Orlando Magic,SF,70,60,22.5,73.4,59.8,1.2,56.2,1.69,46.7,1.4,43.6,1.31
+Anthony Avent,Orlando Magic,SF,70,55,16.6,69.5,50.4,1.01,47.5,1.42,44.0,1.32,41.0,1.23
+Anthony Bowie,Orlando Magic,SG,75,55,21.4,81.2,62.9,1.26,47.5,1.42,44.0,1.32,41.0,1.23
+Greg Kite,Orlando Magic,PF,61,65,15.4,57.8,56.7,1.13,53.3,1.6,49.4,1.48,46.1,1.38
+Geert Hammink,Orlando Magic,C,72,55,14.2,69.5,50.4,1.01,47.5,1.42,44.0,1.32,41.0,1.23
+Tree T. Rollins,Orlando Magic,C,74,60,11.9,57.8,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Shawn Bradley,Philadelphia 76ers,C,80,60,15.4,57.8,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Tim Perry,Philadelphia 76ers,PF,76,86,20.1,57.8,63.5,1.27,65.6,1.97,60.8,1.83,56.7,1.7
+Clarence Weatherspoon,Philadelphia 76ers,SF,85,62,21.4,65.6,69.1,1.38,51.6,1.55,47.8,1.43,44.6,1.34
+Jeff J. Malone,Philadelphia 76ers,SG,80,75,26.1,81.2,66.0,1.32,62.1,1.86,54.9,1.65,51.2,1.53
+Dana Barros,Philadelphia 76ers,PG,86,88,23.8,77.3,69.7,1.39,65.6,1.97,61.9,1.86,57.8,1.73
+Scott S. Williams,Philadelphia 76ers,PF,72,60,15.4,57.8,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Johnny Dawkins,Philadelphia 76ers,PG,81,80,22.5,81.2,66.6,1.33,62.7,1.88,57.6,1.73,53.7,1.61
+Greg Graham,Philadelphia 76ers,SG,70,65,22.5,81.2,59.8,1.2,56.2,1.69,49.4,1.48,46.1,1.38
+Roster Center,Philadelphia 76ers,C,80,55,16.6,61.7,50.4,1.01,47.5,1.42,44.0,1.32,41.0,1.23
+Roster PForward,Philadelphia 76ers,PF,70,60,17.8,69.5,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Roster SForward,Philadelphia 76ers,SF,76,79,22.5,69.5,63.5,1.27,59.8,1.79,57.0,1.71,53.2,1.6
+Roster PGuard,Philadelphia 76ers,PG,75,65,21.4,61.7,62.9,1.26,53.3,1.6,49.4,1.48,46.1,1.38
+Oliver O. Miller,Phoenix Suns,C,75,60,17.8,57.8,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+A.C. Green,Phoenix Suns,PF,82,60,20.1,73.4,67.2,1.34,50.4,1.51,46.7,1.4,43.6,1.31
+Cedric Ceballos,Phoenix Suns,SF,80,65,20.1,69.5,66.0,1.32,53.3,1.6,49.4,1.48,46.1,1.38
+Dan Majerle,Phoenix Suns,SG,78,95,27.2,73.4,64.7,1.29,60.9,1.83,56.5,1.69,61.3,1.84
+Kevin K. Johnson,Phoenix Suns,PG,85,76,24.9,81.2,69.1,1.38,65.0,1.95,55.4,1.66,51.7,1.55
+Danny Ainge,Phoenix Suns,SG,85,85,27.2,81.2,69.1,1.38,65.0,1.95,60.3,1.81,56.2,1.69
+Duane Cooper,Phoenix Suns,PG,75,70,23.8,69.5,62.9,1.26,59.2,1.78,52.1,1.56,48.6,1.46
+Malcolm Mackey,Phoenix Suns,PF,75,60,14.2,61.7,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Joe Kleine,Phoenix Suns,C,60,55,16.6,73.4,50.4,1.01,47.5,1.42,44.0,1.32,41.0,1.23
+Wesley Person,Phoenix Suns,SG,80,84,24.9,69.5,66.0,1.32,62.1,1.86,59.8,1.79,55.7,1.67
+Elliott Perry,Phoenix Suns,PG,62,60,23.8,73.4,54.8,1.1,51.6,1.55,46.7,1.4,43.6,1.31
+Frank F. Johnson,Phoenix Suns,PG,67,60,22.5,81.2,57.9,1.16,54.5,1.63,46.7,1.4,43.6,1.31
+Chris Dudley,Portland Trail Blazers,C,75,50,13.0,53.9,47.3,0.95,44.5,1.34,41.3,1.24,38.5,1.16
+Buck B. Williams,Portland Trail Blazers,PF,82,60,20.1,65.6,67.2,1.34,50.4,1.51,46.7,1.4,43.6,1.31
+Cliff C. Robinson,Portland Trail Blazers,SF,90,70,21.4,73.4,72.2,1.44,56.2,1.69,52.1,1.56,48.6,1.46
+Clyde Drexler,Portland Trail Blazers,SG,79,83,23.8,77.3,65.4,1.31,61.5,1.85,59.2,1.78,55.2,1.66
+Rod Strickland,Portland Trail Blazers,PG,84,80,22.5,73.4,68.5,1.37,64.5,1.93,57.6,1.73,53.7,1.61
+Harvey H. Grant,Portland Trail Blazers,SF,77,75,19.0,61.7,64.1,1.28,59.2,1.78,54.9,1.65,51.2,1.53
+Terry Porter,Portland Trail Blazers,PG,75,89,26.1,85.2,62.9,1.26,59.2,1.78,62.5,1.87,58.3,1.75
+Jaren J. Jackson,Portland Trail Blazers,SG,72,62,20.1,77.3,61.0,1.22,51.6,1.55,47.8,1.43,44.6,1.34
+Mark Bryant,Portland Trail Blazers,C,67,55,17.8,65.6,50.4,1.01,47.5,1.42,44.0,1.32,41.0,1.23
+Jerome Kersey,Portland Trail Blazers,SG,70,65,20.1,73.4,59.8,1.2,53.3,1.6,49.4,1.48,46.1,1.38
+Tracy Murray,Portland Trail Blazers,SF,77,95,26.1,65.6,64.1,1.28,60.4,1.81,65.7,1.97,61.3,1.84
+James J. Robinson,Portland Trail Blazers,SG,70,70,22.5,65.6,59.8,1.2,56.2,1.69,52.1,1.56,48.6,1.46
+Duane Causwell,Sacramento Kings,C,75,60,20.1,57.8,62.9,1.26,50.4,1.51,46.7,1.4,43.6,1.31
+Wayman Tisdale,Sacramento Kings,PF,77,60,21.4,77.3,64.1,1.28,50.4,1.51,46.7,1.4,43.6,1.31
+Lionel Simmons,Sacramento Kings,SF,82,70,22.5,77.3,67.2,1.34,63.3,1.9,52.1,1.56,48.6,1.46
+Mitch Richmond,Sacramento Kings,SG,90,92,26.1,81.2,72.2,1.44,68.0,2.04,64.1,1.92,59.8,1.79
+Spud Webb,Sacramento Kings,PG,72,84,22.5,77.3,61.0,1.22,57.4,1.72,59.8,1.79,55.7,1.67
+Frank Brickowski,Sacramento Kings,PF,80,63,19.0,77.3,66.0,1.32,52.1,1.56,48.3,1.45,45.1,1.35
+Olden Polynice,Sacramento Kings,C,80,57,16.6,53.9,51.7,1.03,48.6,1.46,45.1,1.35,42.0,1.26
+Walt W. Williams,Sacramento Kings,SF,76,75,22.5,61.7,63.5,1.27,59.8,1.79,54.9,1.65,51.2,1.53
+Trevor Wilson,Sacramento Kings,SF,73,60,21.4,53.9,61.6,1.23,50.4,1.51,46.7,1.4,43.6,1.31
+Randy Brown,Sacramento Kings,SG,65,62,20.1,57.8,56.7,1.13,51.6,1.55,47.8,1.43,44.6,1.34
+Mike Peplowski,Sacramento Kings,C,65,55,17.8,53.9,50.4,1.01,47.5,1.42,44.0,1.32,41.0,1.23
+Bobby Hurley,Sacramento Kings,PG,80,75,23.8,77.3,66.0,1.32,62.1,1.86,54.9,1.65,51.2,1.53
+David D. Robinson,San Antonio Spurs,C,96,60,21.4,73.4,76.0,1.52,50.4,1.51,46.7,1.4,43.6,1.31
+Dennis Rodman,San Antonio Spurs,PF,80,55,9.5,53.9,50.4,1.01,47.5,1.42,44.0,1.32,41.0,1.23
+Sean Elliott,San Antonio Spurs,SF,80,77,23.8,77.3,66.0,1.32,62.1,1.86,56.0,1.68,52.2,1.57
+Willie W. Anderson,San Antonio Spurs,SG,75,75,23.8,81.2,62.9,1.26,59.2,1.78,54.9,1.65,51.2,1.53
+Avery A. Johnson,San Antonio Spurs,PG,77,75,21.4,69.5,64.1,1.28,59.2,1.78,54.9,1.65,51.2,1.53
+Vinny Del Negro,San Antonio Spurs,PG,75,75,22.5,81.2,62.9,1.26,59.2,1.78,54.9,1.65,51.2,1.53
+J.R. Reid,San Antonio Spurs,PF,75,60,17.8,69.5,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Chuck Person,San Antonio Spurs,SF,75,87,26.1,73.4,62.9,1.26,59.2,1.78,61.4,1.84,57.2,1.72
+Terry Cummings,San Antonio Spurs,PF,72,60,21.4,57.8,61.0,1.22,50.4,1.51,46.7,1.4,43.6,1.31
+Lloyd Daniels,San Antonio Spurs,SF,70,83,22.5,69.5,59.8,1.2,56.2,1.69,59.2,1.78,55.2,1.66
+Chris Whitney,San Antonio Spurs,PG,67,67,21.4,77.3,57.9,1.16,54.5,1.63,50.5,1.52,47.1,1.41
+Dale D. Ellis,San Antonio Spurs,SF,94,94,27.2,77.3,74.7,1.49,70.3,2.11,65.2,1.96,60.8,1.82
+Ervin E. Johnson,Seattle SuperSonics,C,65,55,15.4,61.7,50.4,1.01,47.5,1.42,44.0,1.32,41.0,1.23
+Shawn Kemp,Seattle SuperSonics,PF,92,60,19.0,73.4,73.5,1.47,50.4,1.51,46.7,1.4,43.6,1.31
+Detlef Schrempf,Seattle SuperSonics,SF,85,72,23.8,73.4,69.1,1.38,65.0,1.95,53.2,1.6,49.6,1.49
+Kendall Gill,Seattle SuperSonics,SG,77,82,24.9,77.3,64.1,1.28,60.4,1.81,58.7,1.76,54.7,1.64
+Gary Payton,Seattle SuperSonics,PG,80,78,23.8,57.8,66.0,1.32,62.1,1.86,56.5,1.69,52.7,1.58
+Sam Perkins,Seattle SuperSonics,C,75,87,24.9,77.3,62.9,1.26,59.2,1.78,61.4,1.84,57.2,1.72
+Vincent Askew,Seattle SuperSonics,SF,76,70,22.5,81.2,63.5,1.27,59.8,1.79,52.1,1.56,48.6,1.46
+Nate McMillan,Seattle SuperSonics,PG,75,85,23.8,53.9,62.9,1.26,59.2,1.78,60.3,1.81,56.2,1.69
+Byron Houston,Seattle SuperSonics,PF,72,62,19.0,57.8,61.0,1.22,51.6,1.55,47.8,1.43,44.6,1.34
+Steve Scheffler,Seattle SuperSonics,C,60,50,16.6,93.0,47.3,0.95,44.5,1.34,41.3,1.24,38.5,1.16
+Sarunas Marciulionis,Seattle SuperSonics,SG,82,70,20.1,73.4,67.2,1.34,56.2,1.69,52.1,1.56,48.6,1.46
+Rich King,Seattle SuperSonics,C,70,60,17.8,69.5,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Felton F. Spencer,Utah Jazz,C,72,50,14.2,57.8,47.3,0.95,44.5,1.34,41.3,1.24,38.5,1.16
+Karl K. Malone,Utah Jazz,PF,95,70,22.5,65.6,75.3,1.51,70.9,2.13,52.1,1.56,48.6,1.46
+David Benoit,Utah Jazz,SF,75,60,19.0,73.4,62.9,1.26,50.4,1.51,46.7,1.4,43.6,1.31
+Jeff Hornacek,Utah Jazz,SG,87,87,27.2,85.2,70.3,1.41,66.2,1.99,61.4,1.84,57.2,1.72
+John Stockton,Utah Jazz,PG,87,84,24.9,77.3,70.3,1.41,66.2,1.99,59.8,1.79,55.7,1.67
+Tyrone Corbin,Utah Jazz,SF,75,67,20.1,77.3,62.9,1.26,54.5,1.63,50.5,1.52,47.1,1.41
+Jay Humphries,Utah Jazz,SG,80,86,23.8,73.4,66.0,1.32,62.1,1.86,60.8,1.83,56.7,1.7
+Bryon Russell,Utah Jazz,SF,72,65,19.0,57.8,61.0,1.22,53.3,1.6,49.4,1.48,46.1,1.38
+Walter Bond,Utah Jazz,SG,73,78,21.4,77.3,61.6,1.23,60.9,1.83,56.5,1.69,52.7,1.58
+Stephen S. Howard,Utah Jazz,PF,75,60,17.8,73.4,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+John Crotty,Utah Jazz,PG,76,78,26.1,85.2,63.5,1.27,59.8,1.79,56.5,1.69,52.7,1.58
+Luther Wright,Utah Jazz,C,71,60,10.6,69.5,53.5,1.07,50.4,1.51,46.7,1.4,43.6,1.31
+Kevin Duckworth,Washington Bullets,C,72,55,15.4,65.6,50.4,1.01,47.5,1.42,44.0,1.32,41.0,1.23
+Don MacLean,Washington Bullets,PF,85,60,21.4,81.2,69.1,1.38,50.4,1.51,46.7,1.4,43.6,1.31
+Tom Gugliotta,Washington Bullets,SF,87,75,21.4,65.6,70.3,1.41,59.2,1.78,54.9,1.65,51.2,1.53
+Rex Chapman,Washington Bullets,SG,78,86,24.9,81.2,64.7,1.29,60.9,1.83,60.8,1.83,56.7,1.7
+Scott Skiles,Washington Bullets,PG,83,82,26.1,85.2,67.9,1.36,63.9,1.92,58.7,1.76,54.7,1.64
+Calbert Cheaney,Washington Bullets,SG,75,75,26.1,73.4,62.9,1.26,59.2,1.78,54.9,1.65,51.2,1.53
+Brent Price,Washington Bullets,PG,72,85,26.1,73.4,61.0,1.22,57.4,1.72,60.3,1.81,56.2,1.69
+Mitchell Butler,Washington Bullets,SG,70,65,22.5,57.8,59.8,1.2,56.2,1.69,49.4,1.48,46.1,1.38
+Kenny Walker,Washington Bullets,PF,70,60,19.0,69.5,59.8,1.2,50.4,1.51,46.7,1.4,43.6,1.31
+Gheorghe Muresan,Washington Bullets,C,80,55,10.6,65.6,50.4,1.01,47.5,1.42,44.0,1.32,41.0,1.23
+Larry Stewart,Washington Bullets,PF,73,63,17.8,73.4,55.4,1.11,52.1,1.56,48.3,1.45,45.1,1.35
+Doug Overton,Washington Bullets,PG,67,62,21.4,81.2,57.9,1.16,51.6,1.55,47.8,1.43,44.6,1.34
