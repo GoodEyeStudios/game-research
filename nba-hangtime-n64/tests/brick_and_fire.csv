@@ -1,0 +1,6 @@
+shot,test,shot_value,chance_pct
+jump shot,normal (tied),650,70.0
+jump shot,after 3 straight misses off the rim,990,100.0
+jump shot,on fire,1400,100.0
+layup,normal,850,90.0
+layup,on fire,850,90.0

@@ -1,0 +1,17 @@
+matchup,game,score_first,score_second,margin,overtime,winner
+Bulls vs Grizzlies,1,52,50,2,no,Bulls
+Bulls vs Grizzlies,2,51,52,1,no,Grizzlies
+Bulls vs Grizzlies,3,52,54,2,no,Grizzlies
+Bulls vs Grizzlies,4,44,50,6,no,Grizzlies
+Bulls vs Grizzlies,5,48,56,8,no,Grizzlies
+Bulls vs Grizzlies,6,69,65,4,yes,Bulls
+Bulls vs Grizzlies,7,69,72,3,yes,Grizzlies
+Bulls vs Grizzlies,8,62,60,2,no,Bulls
+Lakers vs Bulls,1,51,54,3,no,Bulls
+Lakers vs Bulls,2,60,66,6,no,Bulls
+Lakers vs Bulls,3,54,60,6,no,Bulls
+Lakers vs Bulls,4,62,64,2,no,Bulls
+Lakers vs Bulls,5,59,58,1,no,Lakers
+Lakers vs Bulls,6,51,53,2,no,Bulls
+Lakers vs Bulls,7,67,67,0,yes,tied (stopped)
+Lakers vs Bulls,8,56,60,4,no,Bulls
